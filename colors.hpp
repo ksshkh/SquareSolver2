@@ -1,0 +1,5 @@
+#define COLOR_PROGRAM "\033[36m"
+#define COLOR_ANSWER "\033[35m"
+#define COLOR_ERROR "\033[31m"
+#define COLOR_OK "\033[32m"
+#define COLOR_NORMAL "\033[0m"
